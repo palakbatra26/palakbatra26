@@ -14,8 +14,7 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61562280483740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61562280483740" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/palakbatra26_/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/palakbatra26_/?next=%2f" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@palakbatra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@palakbatra_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/palakbatra79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/palakbatra79/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://geeksforgeeks.org/user/palakbapqi1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://geeksforgeeks.org/user/palakbapqi1/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
