@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Batra</h1>
-<h3 align="center">A passionate  Full stack developer in  MERN/MEAN/PYTHON stack Developer from India</h3>
+<h3 align="center">A passionate  Full stack developer in  MERN/MEAN/PYTHON stack  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbatra26&label=Profile%20views&color=0e75b6&style=flat" alt="palakbatra26" /> </p>
 
