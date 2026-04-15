@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakbatra26&show_icons=true&locale=en" alt="palakbatra26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakbatra26&" alt="palakbatra26" /></p>    kindly make it proper set
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakbatra26&" alt="palakbatra26" /></p>
